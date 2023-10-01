@@ -1,0 +1,8 @@
+﻿  f.c
+  main.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\sbDaXue\for tie\for tie\f.c(191): warning C4715: “IsWin”: 不是所有的控件路径都返回值
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  for tie.vcxproj -> C:\sbDaXue\for tie\x64\Release\for tie.exe
